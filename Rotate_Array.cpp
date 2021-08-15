@@ -16,6 +16,7 @@ Constraints:
 
 #include<vector>
 #include<algorithm>
+#include<bits/stdc++.h> 
 using namespace std;
 
 void rotateArray(vector<int> &nums, int k){
